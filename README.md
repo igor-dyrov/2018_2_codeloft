@@ -7,6 +7,13 @@
 - [Участники](#authors)
 - [Backend](#back)
 
+## Локальный запуск
+
+```
+npm run build:dev   
+```   
+Далее, результат будет доступен на localhost:3000
+
 ## Приложение доступно по хостам: <a name="references"></a>
 
 - [Ветка разработки](https://github.com/frontend-park-mail-ru/2018_2_codeloft/tree/testing)
